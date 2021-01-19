@@ -1,6 +1,6 @@
 {
   "name": "dizpm",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "Un módulo que podrás usar en tus Bots de Discord.",
   "main": "index.js",
   "scripts": {

@@ -5,13 +5,13 @@
 </p>
 <p align="center">
 	<a href="https://www.npmjs.com/package/dizpm">
-		<img alt="npm" src="https://img.shields.io/npm/dt/dizpm?style=plastic">
+		<img alt="npm" src="https://img.shields.io/npm/dt/dizpm">
 	</a>
 	<a href="https://www.npmjs.com/package/dizpm">
 		<img alt="npm" src="https://img.shields.io/npm/v/dizpm">
 	</a>
 	<a href="https://paypal.me/aibersondev">
-		<img alt="npm" src="https://img.shields.io/badge/´Donate-Paypal-blue">
+		<img alt="npm" src="https://img.shields.io/badge/Donate-Paypal-blue">
 	</a>
 	<a href="https://discord.gg/pQgP5xF5dc">
 		<img alt="Discord" src="https://img.shields.io/discord/772105463478616065?color=blue&label=Discord%20Server">
