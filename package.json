@@ -1,0 +1,29 @@
+{
+  "name": "dizpm",
+  "version": "1.0.3",
+  "description": "Un módulo que podrás usar en tus Bots de Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AibersonDev/Dizpm.git"
+  },
+  "keywords": [
+    "npm",
+    "discord.js",
+    "discord",
+    "bots",
+    "anime",
+    "images",
+    "imagenes",
+    "generator"
+  ],
+  "author": "aibersondev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AibersonDev/Dizpm/issues"
+  },
+  "homepage": "https://github.com/AibersonDev/Dizpm#readme"
+}
